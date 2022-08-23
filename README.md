@@ -1,4 +1,4 @@
-# ML_Implementation_of_algorithms
+# Implementation of machine learning alorithms
 Implementation of various algorithms of machine learning from scratch
 It contains implementation of 
 1. Logistic Regression
